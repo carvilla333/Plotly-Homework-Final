@@ -1,4 +1,4 @@
-# Plotly-Homework-Final
+# Plotly
 
 In this assignment, we built an interactive dashboard to explore the Belly Button Biodiversity dataset
 
